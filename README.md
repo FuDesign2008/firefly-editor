@@ -1,2 +1,3 @@
-# firefly-editor
-firefly editor for web browser
+# Frog
+
+Advanced rich text editor for web
